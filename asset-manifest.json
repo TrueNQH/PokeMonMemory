@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PokemonMemory/static/css/main.6e30e80d.css",
+    "main.js": "/PokemonMemory/static/js/main.104ed12a.js",
+    "index.html": "/PokemonMemory/index.html",
+    "main.6e30e80d.css.map": "/PokemonMemory/static/css/main.6e30e80d.css.map",
+    "main.104ed12a.js.map": "/PokemonMemory/static/js/main.104ed12a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e30e80d.css",
+    "static/js/main.104ed12a.js"
+  ]
+}
